@@ -1,0 +1,49 @@
+.heading{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.heads{
+    text-align: center;
+    color: blue;
+    margin-top: 3rem;
+}
+.describe{
+    color: #ffffff;
+    font-size: 20px;
+}
+.header{
+    text-align: center;
+    color: #ffffff;
+}
+.update{
+    margin-top: 3rem;
+}
+
+.nav-link{
+    margin-left: 3rem;
+    font-size: 25px;  
+}
+.nav-link active{
+    margin-left: 3rem;
+    font-size: 25px;
+}
+#ron{
+    background-color: black;
+}
+#bald{
+    background: #dedede;
+}
+#bat{
+    margin-top: 20px;
+}
+#info{
+    color: red;
+     margin-top: 2rem;   
+}
+.rack{
+    color: red;
+     margin-top: 2rem;
+}
+.break{
+    background-color:#dedede;
+}
