@@ -26,7 +26,7 @@ SECRET_KEY = '!7p^byi(zfox12p1%()5h&p)h(h)36^h(2+swcnfn8n0s8@1yd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['koolaict.herokuapp.com']
 
 
 # Application definition
